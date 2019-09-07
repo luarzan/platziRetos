@@ -1,0 +1,23 @@
+{
+  "name": "platziretos",
+  "version": "1.0.0",
+  "description": "reto sass",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/styles.css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luarzan/platziRetos.git"
+  },
+  "author": "raul sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luarzan/platziRetos/issues"
+  },
+  "homepage": "https://github.com/luarzan/platziRetos#readme",
+  "dependencies": {
+    "sass": "^1.23.0-module.beta.1"
+  }
+}

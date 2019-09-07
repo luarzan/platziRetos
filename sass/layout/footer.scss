@@ -1,0 +1,15 @@
+.footer{
+    background:linear-gradient(to right, #21C08B,#AB88FF);
+    height: 5vh;
+    padding: 0 1rem;
+
+    & a{
+        color: white;
+        font-size:1.3rem;
+        text-decoration: none;
+        margin-bottom: 2rem;
+    }
+    & a:not(:last-child){ 
+        margin-right: 1rem;
+    }
+}

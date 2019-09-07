@@ -1,0 +1,15 @@
+html{
+    font-size:62.5%;
+    }
+    
+    body{
+        overflow-x:hidden; 
+        margin: 0;
+        padding: 0;
+        background:linear-gradient(to right, #21C08B,#AB88FF);
+        font-family: 'Muli', sans-serif;
+    }
+    body::-webkit-scrollbar-corner{
+        display: none;
+    }
+   
